@@ -1,0 +1,12 @@
+langchain>=0.2,<0.3
+langchain-openai>=0.1.7
+openai>=1.40.0
+faiss-cpu>=1.7.4
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+python-dotenv>=1.0
+beautifulsoup4>=4.12
+requests>=2.32
+plotly>=5.22
+matplotlib>=3.8
