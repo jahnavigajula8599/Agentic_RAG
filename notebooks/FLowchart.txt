@@ -1,0 +1,12 @@
+flowchart TD
+    A[User Research Query] --> B[Planning Agent]
+    B -->|Tasks| C[Data Collection Agent]
+    C -->|Financial + News Docs| D[Analysis Agent]
+    D -->|Analysis Content| E[Risk Assessment Agent]
+    E --> F[Final Research Report]
+
+    B:::agent
+    C:::agent
+    D:::agent
+    E:::agent
+
