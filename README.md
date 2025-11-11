@@ -1,4 +1,5 @@
-AI-Powered Investment Research Assistant (Agentic RAG)
+AI-Powered Investment Research Assistant (Agentic RAG) 
+Purpose of this project is to test out vibe coding
 
 A multi-agent system that demonstrates Retrieval-Augmented Generation (RAG) applied to investment research.
 The project uses multiple agents (Planner, Data Collector, Analyst, Risk Assessor) coordinated by an Orchestrator to produce a comprehensive Markdown research report on any stock ticker.
